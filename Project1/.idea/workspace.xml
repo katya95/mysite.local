@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36e58c4f-7eea-42be-9c49-7808d3951bc4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1jNJuIq03lWH5LbkFiVVg7hx7N0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project/1.php" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36e58c4f-7eea-42be-9c49-7808d3951bc4" name="Default Changelist" comment="" />
+      <created>1603638842609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603638842609</updated>
+      <workItem from="1603638845279" duration="4933000" />
+      <workItem from="1603730778573" duration="1136000" />
+      <workItem from="1603902154027" duration="605000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603730916289">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="294" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1603730916289" />
+    <state x="570" y="206" width="530" height="602" key="FileChooserDialogImpl" timestamp="1603663789433">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="570" y="206" width="530" height="602" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1603663789433" />
+    <state x="212" y="52" width="1256" height="909" key="SettingsEditor" timestamp="1603731190232">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="212" y="52" width="1256" height="909" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1603731190232" />
+    <state x="494" y="197" key="search.everywhere.popup" timestamp="1603640259809">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="494" y="197" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1603640259809" />
+  </component>
+</project>
